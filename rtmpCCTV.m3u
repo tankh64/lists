@@ -1,0 +1,469 @@
+#EXTM3U
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-1综合"
+rtmp://58.200.131.2:1935/livetv/cctv1
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-2财经"
+rtmp://58.200.131.2:1935/livetv/cctv2
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-3综艺"
+rtmp://58.200.131.2:1935/livetv/cctv3
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-4中文国际"
+rtmp://58.200.131.2:1935/livetv/cctv4
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-5体育"
+rtmp://58.200.131.2:1935/livetv/cctv5
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-6电影"
+rtmp://58.200.131.2:1935/livetv/cctv6
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-7军事农业"
+rtmp://58.200.131.2:1935/livetv/cctv7
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-8电视剧"
+rtmp://58.200.131.2:1935/livetv/cctv8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-9记录"
+rtmp://58.200.131.2:1935/livetv/cctv9
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-10科教"
+rtmp://58.200.131.2:1935/livetv/cctv10
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-11戏曲"
+rtmp://58.200.131.2:1935/livetv/cctv11
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-12社会与法"
+rtmp://58.200.131.2:1935/livetv/cctv12
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-13新闻"
+rtmp://58.200.131.2:1935/livetv/cctv13
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-14少儿"
+rtmp://58.200.131.2:1935/livetv/cctv14
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-15音乐"
+rtmp://58.200.131.2:1935/livetv/cctv15
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="安徽卫视"
+rtmp://58.200.131.2:1935/livetv/ahtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="兵团卫视"
+rtmp://58.200.131.2:1935/livetv/bttv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="重庆卫视"
+rtmp://58.200.131.2:1935/livetv/cqtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="东方卫视"
+rtmp://58.200.131.2:1935/livetv/dftv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="东南卫视"
+rtmp://58.200.131.2:1935/livetv/dntv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="广东卫视"
+rtmp://58.200.131.2:1935/livetv/gdtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="广西卫视"
+rtmp://58.200.131.2:1935/livetv/gxtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="甘肃卫视"
+rtmp://58.200.131.2:1935/livetv/gstv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="贵州卫视"
+rtmp://58.200.131.2:1935/livetv/gztv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="湖北卫视"
+rtmp://58.200.131.2:1935/livetv/hbtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="湖南卫视"
+rtmp://58.200.131.2:1935/livetv/hunantv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="河北卫视"
+rtmp://58.200.131.2:1935/livetv/hebtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="河南卫视"
+rtmp://58.200.131.2:1935/livetv/hntv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="黑龙江卫视"
+rtmp://58.200.131.2:1935/livetv/hljtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="江苏卫视"
+rtmp://58.200.131.2:1935/livetv/jstv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="江西卫视"
+rtmp://58.200.131.2:1935/livetv/jxtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="吉林卫视"
+rtmp://58.200.131.2:1935/livetv/jltv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="辽宁卫视"
+rtmp://58.200.131.2:1935/livetv/lntv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="内蒙古卫视"
+rtmp://58.200.131.2:1935/livetv/nmtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="宁夏卫视"
+rtmp://58.200.131.2:1935/livetv/nxtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="青海卫视"
+rtmp://58.200.131.2:1935/livetv/qhtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="四川卫视"
+rtmp://58.200.131.2:1935/livetv/sctv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="山东卫视"
+rtmp://58.200.131.2:1935/livetv/sdtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="山西卫视"
+rtmp://58.200.131.2:1935/livetv/sxrtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="陕西卫视"
+rtmp://58.200.131.2:1935/livetv/sxtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="山东教育"
+rtmp://58.200.131.2:1935/livetv/sdetv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="中国教育-1"
+rtmp://58.200.131.2:1935/livetv/cetv1
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="中国教育-3"
+rtmp://58.200.131.2:1935/livetv/cetv3
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="中国教育-4"
+rtmp://58.200.131.2:1935/livetv/cetv4
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-第一剧场"
+rtmp://58.200.131.2:1935/livetv/dyjctv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-国防军事"
+rtmp://58.200.131.2:1935/livetv/gfjstv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-怀旧剧场"
+rtmp://58.200.131.2:1935/livetv/hjjctv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-风云剧场"
+rtmp://58.200.131.2:1935/livetv/fyjctv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-风云足球"
+rtmp://58.200.131.2:1935/livetv/fyzqtv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-风云音乐"
+rtmp://58.200.131.2:1935/livetv/fyyytv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-世界地理"
+rtmp://58.200.131.2:1935/livetv/sjdltv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-1HD"
+rtmp://58.200.131.2:1935/livetv/cctv1hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-2HD"
+rtmp://58.200.131.2:1935/livetv/cctv2hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-3HD"
+rtmp://58.200.131.2:1935/livetv/cctv3hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-4HD"
+rtmp://58.200.131.2:1935/livetv/cctv4hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-5HD"
+rtmp://58.200.131.2:1935/livetv/cctv5hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV5+HD"
+rtmp://58.200.131.2:1935/livetv/cctv5phd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-6HD"
+rtmp://58.200.131.2:1935/livetv/cctv6hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-7HD"
+rtmp://58.200.131.2:1935/livetv/cctv7hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-8HD"
+rtmp://58.200.131.2:1935/livetv/cctv8hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-9HD"
+rtmp://58.200.131.2:1935/livetv/cctv9hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-10HD"
+rtmp://58.200.131.2:1935/livetv/cctv10hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-12HD"
+rtmp://58.200.131.2:1935/livetv/cctv12hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CCTV-14HD"
+rtmp://58.200.131.2:1935/livetv/cctv14hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CGTN-新闻"
+rtmp://58.200.131.2:1935/livetv/cctv16
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CETV-1"
+rtmp://58.200.131.2:1935/livetv/cetv1
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CETV-3"
+rtmp://58.200.131.2:1935/livetv/cetv3
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CETV-4"
+rtmp://58.200.131.2:1935/livetv/cetv4
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京卫视高清"
+rtmp://58.200.131.2:1935/livetv/btv1hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京影视高清"
+rtmp://58.200.131.2:1935/livetv/btv4hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京体育高清"
+rtmp://58.200.131.2:1935/livetv/btv6hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京新闻高清"
+rtmp://58.200.131.2:1935/livetv/btv9hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京纪实高清"
+rtmp://58.200.131.2:1935/livetv/btv11hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京卫视"
+rtmp://58.200.131.2:1935/livetv/btv1
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京文艺"
+rtmp://58.200.131.2:1935/livetv/btv2
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京科教"
+rtmp://58.200.131.2:1935/livetv/btv3
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京影视"
+rtmp://58.200.131.2:1935/livetv/btv4
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京财经"
+rtmp://58.200.131.2:1935/livetv/btv5
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京体育"
+rtmp://58.200.131.2:1935/livetv/btv6
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京生活"
+rtmp://58.200.131.2:1935/livetv/btv7
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京青年"
+rtmp://58.200.131.2:1935/livetv/btv8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京新闻"
+rtmp://58.200.131.2:1935/livetv/btv9
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京卡酷"
+rtmp://58.200.131.2:1935/livetv/btv10
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="北京文艺高清"
+rtmp://58.200.131.2:1935/livetv/btv2hd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="安徽卫视高清"
+rtmp://58.200.131.2:1935/livetv/ahhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="重庆卫视高清"
+rtmp://58.200.131.2:1935/livetv/cqhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="东方卫视高清"
+rtmp://58.200.131.2:1935/livetv/dfhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="天津卫视高清"
+rtmp://58.200.131.2:1935/livetv/tjhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="东南卫视高清"
+rtmp://58.200.131.2:1935/livetv/dnhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="江西卫视高清"
+rtmp://58.200.131.2:1935/livetv/jxhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="河北卫视高清"
+rtmp://58.200.131.2:1935/livetv/hebhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="湖南卫视高清"
+rtmp://58.200.131.2:1935/livetv/hunanhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="湖北卫视高清"
+rtmp://58.200.131.2:1935/livetv/hbhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="辽宁卫视高清"
+rtmp://58.200.131.2:1935/livetv/lnhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="四川卫视高清"
+rtmp://58.200.131.2:1935/livetv/schd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="江苏卫视高清"
+rtmp://58.200.131.2:1935/livetv/jshd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="浙江卫视高清"
+rtmp://58.200.131.2:1935/livetv/zjhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="山东卫视高清"
+rtmp://58.200.131.2:1935/livetv/sdhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="广东卫视高清"
+rtmp://58.200.131.2:1935/livetv/gdhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="深圳卫视高清"
+rtmp://58.200.131.2:1935/livetv/szhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="黑龙江卫视高清"
+rtmp://58.200.131.2:1935/livetv/hljhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CHC高清电影"
+rtmp://58.200.131.2:1935/livetv/chchd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="上海纪实高清"
+rtmp://58.200.131.2:1935/livetv/docuchina
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="金鹰纪实高清"
+rtmp://58.200.131.2:1935/livetv/gedocu
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="全纪实高清"
+rtmp://58.200.131.2:1935/livetv/documentaryhd
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="凤凰卫视中文台"
+rtmp://58.200.131.2:1935/livetv/fhzw
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="凤凰卫视资讯台"
+rtmp://58.200.131.2:1935/livetv/fhzx
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="凤凰卫视电影台"
+rtmp://58.200.131.2:1935/livetv/fhdy
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="星空卫视"
+rtmp://58.200.131.2:1935/livetv/startv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="Star Sports"
+rtmp://58.200.131.2:1935/livetv/starsports
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="Channel[V]"
+rtmp://58.200.131.2:1935/livetv/channelv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="探索频道"
+rtmp://58.200.131.2:1935/livetv/discovery
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="国家地理频道"
+rtmp://58.200.131.2:1935/livetv/natlgeo
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CHC家庭影院"
+rtmp://58.200.131.2:1935/livetv/chctv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CHC动作电影"
+rtmp://58.200.131.2:1935/livetv/chcatv
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="美国电视频道"
+rtmp://media3.scctv.net/live/scctv_800  
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="香港财经"
+rtmp://202.69.69.180:443/webcast/bshdlive-pc
