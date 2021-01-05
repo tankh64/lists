@@ -1,52 +1,91 @@
 ﻿#EXTM3U
 
+#EXTINF:123,cctv5_1
 http://cctvalih5ca.v.myalicdn.com/live/cctv5_1/index.m3u8
+#EXTINF:123,cctv5plus_1
 http://cctvalih5ca.v.myalicdn.com/live/cctv5plus_1/index.m3u8
 
+#EXTINF:123,cctv1_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:123,cctv2_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:123,cctv3_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:123,cctv4_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:123,cctv5_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+#EXTINF:123,cctv5plus_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv5plus_2/index.m3u8
+#EXTINF:123,cctv6_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:123,cctv7_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:123,cctv8_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+#EXTINF:123,cctv9_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv9_2/index.m3u8
+#EXTINF:123,cctv10_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:123,cctv11_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:123,cctv12_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:123,cctv13_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:123,cctv14_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv14_2/index.m3u8
+#EXTINF:123,cctv15_2
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 
-
-
+#EXTINF:123,cctv1_1
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_1/index.m3u8
+#EXTINF:123,cctv5_1
 http://cctvalih5ca.v.myalicdn.com/live/cctv5_1/index.m3u8
+#EXTINF:123,cctv5plus_1
 http://cctvalih5ca.v.myalicdn.com/live/cctv5plus_1/index.m3u8
 
+#EXTINF:123,cctv1
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:123,cctv10hd
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:123,cctv12hd
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:123,cctv17hd
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:123,cctv2hd
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:123,cctv3hd
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:123,cctv4hd
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:123,cctv5phd
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:123,cctv6hd
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:123,cctv7hd
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:123,cctv8hd
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:123,cctv9hd
 http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 
+#EXTINF:123,btv11hd
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:123,btv1hd
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+#EXTINF:123,btv2hd
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:123,btv4hd
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
+#EXTINF:123,btv9hd
 http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 
+#EXTINF:123,cgtnhd
 http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
+#EXTINF:123,hunanhd
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:123,zjhd
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 
 
@@ -54,9 +93,8 @@ http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 
 
 
+#EXTINF:123,hdcctv05plus
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:123,cctv-5
 http://121.31.30.91:8081/ysten-business/live/cctv-5/2.m3u8
-http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
-http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-
 
