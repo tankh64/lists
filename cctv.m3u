@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+
+#EXTINF:123,Hunan-HD
+http://121.31.30.91:8081/ysten-business/live/hdhunanstv/1.m3u8
+
 #EXTINF:123,CCTV1-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:123,CCTV2-1080p
@@ -116,9 +120,6 @@ http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:123,zjhd
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-
-
-
 
 
 
