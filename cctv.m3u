@@ -1,8 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:123,Hunan-HD
-http://121.31.30.91:8081/ysten-business/live/hdhunanstv/1.m3u8
-
 #EXTINF:123,CCTV1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:123,CCTV2财经
@@ -15,7 +12,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:123,CCTV6电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
-#EXTINF:123,CCTV7军事农业
+#EXTINF:123,CCTV7军事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:123,CCTV8电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
@@ -27,10 +24,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:123,CCTV14少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:123,CCTV17
+#EXTINF:123,CCTV17农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:123,CCTV-中视购物
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225709/index.m3u8
+
+#EXTINF:123,湖南卫视
+http://121.31.30.91:8081/ysten-business/live/hdhunanstv/1.m3u8
+#EXTINF:123,湖南卫视
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 
 #EXTINF:123,CCTV5体育
 http://cctvalih5ca.v.myalicdn.com/live/cctv5_1/index.m3u8
@@ -51,7 +53,7 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 http://cctvalih5ca.v.myalicdn.com/live/cctv5plus_2/index.m3u8
 #EXTINF:123,CCTV6电影
 http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
-#EXTINF:123,CCTV7军事农业
+#EXTINF:123,CCTV7军事
 http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
 #EXTINF:123,CCTV8电视剧
 http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
@@ -89,7 +91,7 @@ http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:123,CCTV6电影
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:123,CCTV7军事农业
+#EXTINF:123,CCTV7军事
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:123,CCTV8电视剧
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
@@ -99,24 +101,23 @@ http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:123,CCTV12社会与法
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:123,CCTV17
+#EXTINF:123,CCTV17农业
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 
-#EXTINF:123,btv11
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:123,btv1
+#EXTINF:123,btv1北京卫视
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:123,btv2
+#EXTINF:123,btv2文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:123,btv4
+#EXTINF:123,btv4影视
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
-#EXTINF:123,btv9
+#EXTINF:123,btv9新闻
 http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
+#EXTINF:123,btv11东奥纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 
 #EXTINF:123,cgtn
 http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
-#EXTINF:123,hunan
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+
 #EXTINF:123,zj
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 
